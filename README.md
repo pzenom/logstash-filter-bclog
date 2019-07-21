@@ -1,0 +1,2 @@
+# logstash-filter-bclog
+BCLog 
